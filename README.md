@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adalberto518
+- 👋 Hi, I’m @Adalberto518 I am an Industrial Engineer, MBA candidate and Data Junkie
 - 👀 I’m interested in Data Science, Econometrics, App development, ERP and Project Management
-- 🌱 I’m currently learning Machine Learning on Pyhton
+- 🌱 I’m currently learning Machine Learning on Python
 - 📫 How to reach me 2225044337 or adalb518@gmail.com
 
 <!---
